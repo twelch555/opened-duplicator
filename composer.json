@@ -31,7 +31,6 @@
         "codeception/module-cli": "^1.0",
         "codeception/util-universalframework": "^1.0",
         "gumlet/php-image-resize": "^2.0",
-        "vlucas/phpdotenv": "^5.2",
         "phpmd/phpmd": "@stable",
         "friendsofphp/php-cs-fixer": "^2.16",
         "hoa/console": "^3.17",
